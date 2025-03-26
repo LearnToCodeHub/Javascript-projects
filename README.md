@@ -6,5 +6,8 @@
 
 - **Slot Machines - Caça-níqueis**: [An explanatory video about how slot machines work.](https://www.youtube.com/watch?v=E3XxeE7NF30)
 
-- - **Snake Game Tutorial**: [Learn how to create a classic Snake game from scratch in this tutorial.](https://www.youtube.com/watch?v=uyhzCBEGaBY)
+-  **Snake Game Tutorial**: [Learn how to create a classic Snake game from scratch in this tutorial.](https://www.youtube.com/watch?v=uyhzCBEGaBY)
+
+-  **Build a Notes App**: [Learn how to develop a notes application in this tutorial.](https://www.youtube.com/watch?v=3xFb7Ldaa4Q)
+
 
