@@ -1,6 +1,6 @@
 # Javascript-projects
 
-- ## React
+ ## React
 
 - **Jogo Multiplayer**: [Um tutorial sobre como criar um jogo multiplayer do zero.](https://www.youtube.com/watch?v=0sTfIZvjYJk)
 
@@ -19,6 +19,11 @@
 - **Create a LLM Website**: [Build a website powered by a large language model (LLM) for AI-driven applications.](https://www.youtube.com/watch?v=p2zWawmDkF4)
 
 - **Pathfinding Visualizer**: [A tutorial on how to build a pathfinding visualizer](https://www.youtube.com/watch?v=msttfIHHkak)
+
+
+## Nextjs
+
+- **Google Drive Clone**: [Learn how to build a cloud storage application inspired by Google Drive.](https://www.youtube.com/watch?v=c-hKSbzooAg)  
 
 
 
@@ -52,7 +57,7 @@
 
 -  **Build a Notes App**: [Learn how to develop a notes application in this tutorial.](https://www.youtube.com/watch?v=3xFb7Ldaa4Q)
 
-- - **E-Commerce Website**: [Learn how to build a fully functional e-commerce website.](https://www.youtube.com/watch?v=ZF73dpgRrWI)  
+-  **E-Commerce Website**: [Learn how to build a fully functional e-commerce website.](https://www.youtube.com/watch?v=ZF73dpgRrWI)  
 
 - **Food Delivery App**: [A step-by-step guide to creating a food delivery application from scratch.](https://www.youtube.com/watch?v=9jRTo7ILxQc)  
 
