@@ -16,7 +16,10 @@
 
 - **Spotify Clone**: [Learn how to build a Spotify-like music streaming application.](https://www.youtube.com/watch?v=amFYvQK4huo)  
 
-- **Create a LLM Website**: [Build a website powered by a large language model (LLM) for AI-driven applications.](https://www.youtube.com/watch?v=p2zWawmDkF4)  
+- **Create a LLM Website**: [Build a website powered by a large language model (LLM) for AI-driven applications.](https://www.youtube.com/watch?v=p2zWawmDkF4)
+
+- **Pathfinding Visualizer**: [A tutorial on how to build a pathfinding visualizer](https://www.youtube.com/watch?v=msttfIHHkak)
+
 
 
 
